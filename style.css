@@ -147,11 +147,7 @@ section {
 
 
 }
-.info p {
 
-
-
-}
 
 .content {
   display: flex;
@@ -274,7 +270,7 @@ opacity: 0.9;
 }
 
 .footer-title {
-  font-size: 1.3em
+  font-size: 1.3em;
   font-weight: 500;
   
 
@@ -363,7 +359,7 @@ opacity: 0.9;
   body{
     font-size: 10px;
   }
-    
+
 
 
 
